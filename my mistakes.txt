@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Table task 2</title>
+</head>
+<style type="text/css">
+	table,td
+	{
+		border: 2px solid black;	
+	}
+	
+</style>
+<body>
+	<table >
+		<tr >
+			<th colspan="4" >TITLE</th>
+		</tr>
+		<tr>
+			<td  colspan="2" >Subtitle</td>
+			<td  colspan="2">Subtitle</td>
+		<tr >
+			<td>1 iteam</td>
+			<td>123</td>
+			<td>1 iteam</td>
+			<td>123</td>
+
+		</tr>
+		<tr>
+			<td>1 iteam</td>
+			<td>123</td>
+			<td>1 iteam</td>
+			<td>123</td>
+
+		</tr>
+		<tr>
+			<td>1 iteam</td>
+			<td>123</td>
+			<td>1 iteam</td>
+			<td>123</td>
+		</tr>
+		<tr>
+			<td  colspan="2"> Sub subtitle</td>
+			<td  colspan="2"> Subsubtitle</td>
+		<tr>
+
+	</table>
+
+</body>
+</html>

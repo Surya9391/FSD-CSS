@@ -1,0 +1,125 @@
+1	KodNest	1
+2	ABB	1
+3	Bharath Group	3
+4	Kotak Life	1
+5	Raam Group	1
+6	Larsen & Toubro	6
+7	Rane Madras	3
+8	Cargill	1
+9	Celebal Technology	1
+10	Pennant	2
+11	Techwave	10
+12	Pentagon Space	7
+13	FACE Prep	5
+14	Vihaan Electrix	13
+15	Besten Engineers & Consultants	4
+16	Autocracy Machinery	4
+17	Yamaha Motor Electronics	8
+18	EPIROC MINING INDIA	1
+19	Infor	3
+20	Hyundai Motor	2
+21	Iquadra	1
+22	FactSet	3
+23	Sidsfarm	7
+24	Deevyashakti India	6
+25	Nisarga ITS	5
+26	FUNNL	6
+27	KJ Systems	2
+28	Aparna Constructions	1
+29	Moslo Consulting	1
+30	Apt Online	1
+31	Cohance Life Sciences	5
+32	Ball Beverage Packaging (India) Pvt Ltd	2
+33	Altcognito Systems	4
+34	ThoughtClan Technologies	1
+35	CarTradeTech	1
+36	Deloitte USI	8
+37	Palle Technologies	7
+38	SBI Life	8
+39	Tech Mahindra	1
+40	Technical HUB	1
+41	Netenrich	2
+42	KIML	17
+43	DELPHI-TVS	45
+44	West Agile Labs	1
+45	Qspiders	14
+46	MagikMinds	3
+47	CDK Global	3
+48	Acmegrade	9
+49	Tikona Infinet	1
+50	Techigai	1
+51	Sutherland	6
+52	Bluestone	3
+53	Bandhan Bank	6
+54	Home First Finance	8
+55	Aloha Technology	1
+56	Park Controls & Communications	2
+57	Lekha Wireless Solutions	2
+58	Pennant	1
+59	Surya Tech Solutions	50
+60	Sutherland	6
+61	Techigai	1
+62	Home First Finance	8
+63	Bluestone	3
+64	Bandhan Bank	6
+65	Unschool	5
+66	Ramco Cements	1
+67	Radharam	15
+68	Quest Global	8
+69	HYUNDAI STEEL	43
+70	India Cements	2
+71	Acuvate	7
+72	MuSigma	12
+73	TCS	63
+74	EXOTIC LEARNING NIRVODAY PVT LTD	3
+75	MOUNTBLUE	10
+76	ICICI BANK	39
+77	Tech Mahindra	7
+78	Tyke	2
+79	Veefin	1
+80	The Tech Destiny	2
+81	Go Digit General Insurance Limited	1
+82	Atkins Global	1
+83	Zenq	16
+84	Apps Associate	2
+85	SDVVL Construction	6
+86	Zemoso Technologies	9
+87	Tessolve Semiconductor	5
+88	Extramarks	15
+89	YUBI	1
+90	Evertz India	1
+91	VIT Infotech	2
+92	Northern Arc	1
+93	DeltaX	1
+94	Josh Technology	1
+95	Epam	2
+96	Hitachi Vantara	4
+97	EMBE Automations	3
+98	MYRACLE	2
+99	Ashva All terrain Equipments	2
+100	DigitalTrust	1
+101	Nineleaps	2
+102	TurboHire	2
+103	Keka	2
+104	Keka	3
+105	Apxor	1
+106	Jio Platforms	26
+107	Ren Labs	1
+108	Value Momentum	27
+109	Kyndryl	34
+110	Divami	5
+111	NSL	2
+112	Legato Health Technologies	17
+113	iQuadra	4
+114	Symphony RetailAI	2
+115	Lowe's	1
+116	ZF India	20
+117	Netmeds	3
+118	Tejas Networks	1
+119	DXC Technology	308
+120	Maersk	4
+121	Hexaview Technologies	4
+122	ZopSmart	4
+123	Inviz.Ai	1
+124	ADP	16
+125	Hexaware Technologies	109
