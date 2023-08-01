@@ -1,0 +1,12 @@
+.one
+{
+	outline: dashed;
+	outline-width: 3px;
+	outline-spacing: ;
+	outline-color: red;
+	width: 250px;
+	height: 250px;
+	background-color: pink;
+	text-align: center;
+	
+}

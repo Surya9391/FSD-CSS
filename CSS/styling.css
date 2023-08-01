@@ -1,0 +1,11 @@
+.in
+{  
+	color: blue;
+	font-family:sans-serif;
+}
+.out
+{
+	
+	border: 3px dashed;
+	background-color: red;
+}

@@ -1,0 +1,26 @@
+body
+{
+	background-image: url('logo.Jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+.zero
+{
+	width: 500px;
+}
+.one
+{
+	float: left;
+	background-image: url("logo.Jpg");
+	background-size: cover;
+	width: 100px;
+	height:100px;
+	background-color: red;
+
+}
+.two
+{
+	width: 400px;
+	float: right;
+}

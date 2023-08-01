@@ -1,0 +1,119 @@
+.one
+{
+	height: 600px;
+	width: 400px;
+}
+.two
+{
+	height: 800px;
+	width: 200px;
+	float: left;
+}
+.three
+{
+	height: 100px;
+	width: 190px; 
+	border: 3px dotted; black;
+}
+.four
+{
+	height: 20px;
+	width: 200px;
+}
+.five
+{
+	height: 100px;
+	width: 190px;
+	border: 3px solid black ;
+}
+.six
+{
+	height: 20px;
+	width: 200px;
+}
+.seven
+{
+	height: 100px;
+	width: 190px;
+	border:3px groove black;
+}
+.eight
+{
+	height: 20px;
+	width: 200px;
+}
+.nine
+{
+	height: 100px;
+	width: 190px;
+	border: 3px inset black;
+}
+.ten
+{
+	height: 20px;
+	width: 200px;
+}
+.eleven
+{
+	height: 100px;
+	width: 190px;
+	border: 3px none black;
+}
+.twelve
+{
+	background-color: ;
+	height: 800px;
+	width: 200px;
+	float: right;
+}
+.thirteen
+{
+	height:100px ;
+	width: 190px;
+	border:  3px dashed black;
+}
+.fourteen
+{
+	height: 20px;
+	width: 200px;
+}
+.fifteeen
+{
+	height: 100px;
+	width: 190px;
+	border: 3px double black;
+}
+
+.sixteen
+{
+	height: 20px;
+	width: 200px;
+}
+.seventeen
+{
+	height: 100px;
+	width: 190px;
+	border: 3px ridge black;
+}
+.eighteen
+{
+	height: 20px;
+	width: 200px;
+}
+.ninteen
+{
+	height: 100px;
+	width: 190px;
+	border: 3px outset black;
+}
+.twenty
+{
+	height: 20px;
+	width: 200px;
+}
+.twentyone
+{
+	height: 100px;
+	width: 200px;
+	border: 3px hidden black;
+}

@@ -1,0 +1,73 @@
+*
+{
+	font-family:cursive;
+			
+}
+
+
+body{
+	background-color: greenyellow;
+}
+input[type=""]
+{
+	color: red;
+}
+input[type="text"]
+{
+	color: green;
+
+}
+		input[type="number"]
+		{
+			color: khaki;
+
+		}
+		input[type="date"]
+		{
+			color: lightcoral;
+
+		}
+		input[type="week"]
+		{
+			color: fuchsia;
+
+		}
+
+		body
+		{
+			background: lightcyan;
+		}
+		p,h4
+		{
+			background: yellow;
+			color: blue;
+		}
+		h1
+		{
+			font-size: 30px;
+			font-style: italic;
+			background: black;
+			color: whitesmoke;
+		}
+		img[src]
+		{
+			border:dashed black;
+			width: 200px;
+			height: 200px;
+			margin: 10px;
+			padding: 10px;
+		}
+		a:link
+		{
+			color: green;
+		}
+		a:hover
+		{
+			color: blue;
+		}
+		a:active
+		{
+			color: gold;
+		}
+
+		
